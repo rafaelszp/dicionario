@@ -1,2 +1,2 @@
-# dicionario
+# Dicionario
 Projeto Dicionário JEE6
